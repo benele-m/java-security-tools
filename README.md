@@ -24,7 +24,6 @@ Includes:
 
 ## Technologies
 - Java
-- Java Swing
 - NetBeans
 
 ## How to Run
